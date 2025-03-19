@@ -29,8 +29,7 @@
 </table>
 
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2 >Known technologies👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,flutter,dart,firebase,supabase,ts,go,react,mongodb,npm,notion,cs&perline=15" />
