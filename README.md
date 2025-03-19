@@ -37,7 +37,7 @@
   </a>
 </p>
 <br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px" alt="My Statistics"> My Statistics
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px" alt="My Statistics"> My Statistics
 
 <table align="center">
 <tr border="none">
