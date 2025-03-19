@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,git,github,postman,vscode,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,firebase,git,github,postman,vscode&perline=12" />
   </a>
 </p>
 <br>
