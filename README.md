@@ -74,7 +74,7 @@
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px" alt="Connect Me Via"> Connect Me Via
 
 <p align="center">
-  <a href="https://JA-SB-DEV.github.io/blogs/" target="_blank">
+  <a href="https://JA-SB-DEV.github.io" target="_blank">
     <img align="center" alt="JA-SB-DEV | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
   </a> &nbsp;&nbsp;
 
@@ -82,7 +82,7 @@
     <img align="center" alt="JA-SB-DEV | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="mailto:JA-SB-DEV@example.com" >
+  <a href="mailto:juanandressalcedo909@gmail.com" >
     <img align="center" alt="JA-SB-DEV | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
 <p>
