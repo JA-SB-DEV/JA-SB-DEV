@@ -1,25 +1,24 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+JA-SB-DEV;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hola!+Soy+JA-SB-DEV;Bienvenido+a+mi+perfil+de+GitHub!" alt="Title" />
 </div>
 
 <br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" alt="Flying animation" />
+  <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/fly.webp" height="120px" alt="Flying animation" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/wave.gif" width="50px" height="50px" alt="Wave"></img> About Me
+## 👋 Sobre mí
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I’m currently working on `webgis` Development.
-- 🌱 I’m currently learning `webgl` and `threejs`
-- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- ⚙️ I use daily: `.js`, `.vue`, `.jsx`, `.css`, `.less`, `.ts`
-- 💬 Ping me about **vue**, **fullstack**, **development**, **design**
+- 🎯 Enfocado en desarrollo **Backend** con C# y Java.
+- 🧩 Experiencia con **ASP.NET Core** y **Firebase**.
+- 📱 Desarrollo de apps móviles con **Flutter**.
+- 🌱 Aprendiendo: Spring Boot, Clean Architecture, DDD y despliegue con Docker.
+- 🛠 Me gusta construir soluciones sólidas, escalables y bien estructuradas.
 
 </td>
 <td width="50%" align="center">
@@ -28,23 +27,28 @@
 </tr>
 </table>
 
-<br>
-<h2 >Known technologies👨🏻‍💻</h2>
+---
+
+## 👨🏻‍💻 Tecnologías que uso
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,flutter,dart,firebase,supabase,ts,go,react,mongodb,npm,notion,cs&perline=15" />
+    <img src="https://skillicons.dev/icons?i=cs,java,dotnet,spring,flutter,dart,firebase,git,github,androidstudio,vscode,mysql,linux&perline=10" />
   </a>
 </p>
-<br>
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px" alt="My Statistics"> My Statistics
+
+---
+
+## 📊 Estadísticas
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JA-SB-DEV&theme=chartreuse-dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JA-SB-DEV&theme=chartreuse-dark&hide_border=false" /> 
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JA-SB-DEV&theme=chartreuse-dark&hide_border=false" alt="Streak" /> 
+
 </td>
 <td width="50%" align="center">
 
@@ -54,35 +58,26 @@
 </tr>
 </table>
 
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
+---
 
-## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px" alt="Connect Me Via"> Connect Me Via
+## 📫 Conecta conmigo
 
 <p align="center">
-  <a href="https://JA-SB-DEV.github.io" target="_blank">
-    <img align="center" alt="JA-SB-DEV | blogs" width="24px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/vitepress.svg" />
+  <a href="mailto:juanandressalcedo909@gmail.com" >
+    <img align="center" alt="Email" width="30px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
 
   <a href="https://github.com/JA-SB-DEV" target="_blank">
-    <img align="center" alt="JA-SB-DEV | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="mailto:juanandressalcedo909@gmail.com" >
-    <img align="center" alt="JA-SB-DEV | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
-<p>
-
-<div align="center">
-  :heart_eyes: Thanks for visiting my profile! Have a great day! :wink: <br/>
-  &copy; 2024 JA-SB-DEV
-</div>
+  <!-- Puedes agregar más redes si las deseas -->
+</p>
 
 ---
 
-Credit: [ashu-guo](https://github.com/ashu-guo)
+<div align="center">
+  😄 ¡Gracias por visitar mi perfil!  
+  <br/>
+  &copy; 2024 Juan Salcedo | JA-SB-DEV
+</div>
